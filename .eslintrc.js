@@ -28,6 +28,7 @@ module.exports = {
     'import/no-cycle': 'off',
     'import/prefer-default-export': 'off',
     'max-len': ['warn', { code: 150, ignoreTemplateLiterals: true, ignoreComments: true }],
+    'no-restricted-syntax': 'off'
   },
   overrides: [
     {
